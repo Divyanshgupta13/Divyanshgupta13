@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divyanshgupta13
 - 👀 I’m interested in learing programming and python and javascript.
-- 🌱 I’m currently learning more of phthon and c++.
+- 🌱 I’m currently learning more of python and java.
 - 💞️ I’m looking to collaborate on project that can improve my skills sets.
 - 📫 How to reach me mail- divyansh.rlg@gmail.com  
 - 😄 Pronouns: he/him
