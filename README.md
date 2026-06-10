@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **divyansh.rlg@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** AuraFinance(Personal Finance Manager)
+- 🔭 **I’m currently working on:** AuraFinance(Personal Finance Manager) **
 - 🌱 **I’m currently learning:** Backend 
 - 👯 **I’m looking to collaborate on:** -----
 - 🤔 **I’m looking for help with:** -----
